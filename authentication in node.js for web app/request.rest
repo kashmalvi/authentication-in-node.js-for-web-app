@@ -1,0 +1,7 @@
+GET http://localhost:7050/profile
+
+# POST http://localhost:7050/login
+# Content-Type: application/json
+# {
+#     "username" : "sagar"
+# }
