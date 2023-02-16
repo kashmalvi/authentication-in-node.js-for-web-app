@@ -2,3 +2,4 @@ node_modules/
 request.rest/
 serv.js
 readme
+.env
